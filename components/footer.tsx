@@ -73,6 +73,9 @@ export default function Footer() {
 
         <div className="border-t border-yellow-600/20 mt-8 pt-8 text-center">
           <p className="font-body text-amber-200">© 2024 Sculpted Aura. All rights reserved. | Let your aura shine.</p>
+           <p className="font-body text-amber-200">
+            Design by <a href="https://imperiumadvertising.com/" target="_blank" style={{ color: "#fbbf24", textDecoration: "underline" }}>Imperium Advertising</a>
+          </p>
         </div>
       </div>
     </footer>

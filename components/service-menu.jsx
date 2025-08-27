@@ -116,7 +116,7 @@ export default function ServiceMenu() {
           price: "$95",
           description: "LED light therapy to stimulate fat cells and promote natural body sculpting.",
           image:
-            "lipolaser.jpg",
+            "lipolaser.jpeg",
         },
         {
           name: "Wood Therapy",
